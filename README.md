@@ -3,6 +3,11 @@
 ## Overview
 This project focuses on the automatic detection of pulmonary nodules, which are indicators of lung cancer, using advanced deep learning techniques. Given the high mortality rate associated with lung cancer, early and accurate detection is crucial for improving patient outcomes. This study leverages Convolutional Neural Networks (CNN) and Transfer Learning to classify lung nodules in CT scan images as benign or malignant, thus aiding in the early diagnosis and treatment of lung cancer.
 
+## Data Source 
+
+LUNA 16 Lung Cancer Dataset 
+https://www.kaggle.com/datasets/fanbyprinciple/luna-lung-cancer-dataset
+
 ## Objectives
 Develop CNN Models: Create traditional Convolutional Neural Network (CNN) models to classify lung nodules in CT scans.
 Implement Transfer Learning: Utilize the VGG16 architecture, a pre-trained deep learning model, to enhance the accuracy of lung nodule classification.
